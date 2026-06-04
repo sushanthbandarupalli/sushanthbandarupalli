@@ -6,7 +6,7 @@
 
 <!-- <p>
   <a href="https://github.com/sushanthbandarupalli">
-    <!-- <img src="https://img.shields.io/github/followers/sushanthbandarupalli?label=Followers&style=for-the-badge" /> -->
+    <img src="https://img.shields.io/github/followers/sushanthbandarupalli?label=Followers&style=for-the-badge" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=sushanthbandarupalli&style=for-the-badge" />
 </p> -->
