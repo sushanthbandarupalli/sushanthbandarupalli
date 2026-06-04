@@ -4,12 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Science+Explorer;MERN+Stack+Developer;Building+AI-Powered+Applications" />
 
-<p>
+<!-- <p>
   <a href="https://github.com/sushanthbandarupalli">
     <!-- <img src="https://img.shields.io/github/followers/sushanthbandarupalli?label=Followers&style=for-the-badge" /> -->
   </a>
   <img src="https://komarev.com/ghpvc/?username=sushanthbandarupalli&style=for-the-badge" />
-</p>
+</p> -->
 
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | Data Science Explorer
 
