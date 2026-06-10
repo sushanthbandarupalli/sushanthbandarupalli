@@ -23,7 +23,7 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M1bHFqYmxmNWhydTVxZWppcWV6M2I0MWh4a3Rza3A2d2Q2eTJ3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-🎓 Computer Science Graduate
+🎓 Information Technology Graduate
 
 💻 Passionate about Full Stack Development and AI-powered applications
 
@@ -83,64 +83,60 @@ TensorFlow • Keras • Scikit-Learn • Pandas • NumPy • Matplotlib
 
 ### 🛡️ Detecting Android Malware Automatically with an Optimized Ensemble Learning Technique
 
-A machine learning-based malware detection system using optimized ensemble learning techniques to identify malicious Android applications.
+A machine learning-based cybersecurity solution that automatically identifies malicious Android applications using multiple classification models and optimized ensemble learning techniques.
 
-🔗 Repository:
-[https://github.com/sushanthbandarupalli/Malware_Detection](https://github.com/sushanthbandarupalli/detecting-android-malware-optimized-ensemble-learning)
+**Key Highlights**
+* Malware Classification
+* Comparative Model Analysis
+* Accuracy Evaluation Dashboard
+* Django-Based Web Application
+* Ensemble Learning Approach
 
-**Tech Used**
-
-* Python
-* Machine Learning
-* Data Analysis
-* Ensemble Learning
-
+Tech Stack: Python, Django, Scikit-Learn, MySQL, Machine Learning
 ---
 
-### 🏍️ Ducati Scrambler React Application
+### 🚗 AI-Powered Vehicle Speed Estimation & License Plate Recognition
 
-Modern React-based frontend application inspired by Ducati Scrambler design principles.
+A real-time intelligent traffic monitoring system capable of detecting vehicles, tracking movement, estimating speed, and performing automatic number plate recognition (ANPR).
 
-🔗 Repository:
-https://github.com/sushanthbandarupalli/DucatiScrambler_React.js
+**Key Highlights**
+* YOLOv11 Vehicle Detection
+* DeepSORT Multi-Object Tracking
+* EasyOCR License Plate Recognition
+* FastAPI Backend
+* WebRTC Real-Time Streaming
+* Speed Estimation Pipeline
 
-**Tech Used**
-
-* React.js
-* JavaScript
-* CSS
-
+Tech Stack: Python, YOLOv11, DeepSORT, EasyOCR, FastAPI, OpenCV
 ---
 
-### 🚗  Scrambler Ducati Garage – MERN Stack E-Commerce Platform (Frontend)
+### 🏍️ Scrambler Ducati Garage – MERN Stack E-Commerce Platform
 
-Full-stack MERN application demonstrating modern web development practices.
+A full-stack motorcycle e-commerce platform featuring authentication, motorcycle catalog management, shopping cart functionality, order processing, and admin inventory control.
 
-🔗 Repository:
-[https://github.com/sushanthbandarupalli/ScramblerDucati-Garage_MERNStack](https://github.com/sushanthbandarupalli/scrambler-ducati-garage-frontend)
+**Key Highlights**
+* User Authentication
+* Shopping Cart Management
+* Order Processing
+* REST API Integration
+* MongoDB Database Design
+* Admin Inventory Management
 
-**Tech Used**
-
-* MongoDB
-* Express.js
-* React.js
-* Node.js
-
+Tech Stack: MongoDB, Express.js, React.js, Node.js
 ---
 
-### ✨ Simple Popup Project
+### 😊 Facial Expression Recognition System
 
-Interactive frontend project showcasing responsive UI design and JavaScript functionality.
+A computer vision application capable of detecting and classifying human emotions using machine learning and facial feature extraction techniques.
 
-🔗 Repository:
-https://github.com/sushanthbandarupalli/Simple_popup_project
+**Key Highlights**
+* Face Detection
+* Emotion Classification
+* PCA-Based Feature Extraction
+* SVM Classification
+* Real-Time Emotion Recognition
 
-**Tech Used**
-
-* HTML
-* CSS
-* JavaScript
-
+Tech Stack: Python, OpenCV, Scikit-Learn, Machine Learning
 ---
 
 
