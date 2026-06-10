@@ -81,12 +81,12 @@ TensorFlow • Keras • Scikit-Learn • Pandas • NumPy • Matplotlib
 
 ## 🌟 Featured Projects
 
-### 🛡️ Android Malware Detection
+### 🛡️ Detecting Android Malware Automatically with an Optimized Ensemble Learning Technique
 
 A machine learning-based malware detection system using optimized ensemble learning techniques to identify malicious Android applications.
 
 🔗 Repository:
-https://github.com/sushanthbandarupalli/Malware_Detection
+[https://github.com/sushanthbandarupalli/Malware_Detection](https://github.com/sushanthbandarupalli/detecting-android-malware-optimized-ensemble-learning)
 
 **Tech Used**
 
@@ -112,12 +112,12 @@ https://github.com/sushanthbandarupalli/DucatiScrambler_React.js
 
 ---
 
-### 🚗 Ducati Garage MERN Platform
+### 🚗  Scrambler Ducati Garage – MERN Stack E-Commerce Platform (Frontend)
 
 Full-stack MERN application demonstrating modern web development practices.
 
 🔗 Repository:
-https://github.com/sushanthbandarupalli/ScramblerDucati-Garage_MERNStack
+[https://github.com/sushanthbandarupalli/ScramblerDucati-Garage_MERNStack](https://github.com/sushanthbandarupalli/scrambler-ducati-garage-frontend)
 
 **Tech Used**
 
@@ -143,37 +143,6 @@ https://github.com/sushanthbandarupalli/Simple_popup_project
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sushanthbandarupalli&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushanthbandarupalli&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushanthbandarupalli&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sushanthbandarupalli&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 ## 🏆 Highlights
 
