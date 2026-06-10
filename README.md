@@ -156,14 +156,17 @@ Tech Stack: Python, OpenCV, Scikit-Learn, Machine Learning
 
 ---
 
-## 📚 Currently Learning
+### 🎯 Career Interests
 
-* Advanced Machine Learning
-* MLOps
-* Cloud Computing
-* Backend Scalability
-* System Design
+I am interested in opportunities involving:
 
+* Software Development
+* Full Stack Engineering
+* Machine Learning Engineering
+* Artificial Intelligence
+* Computer Vision
+* Backend Development
+* Data Science
 ---
 
 ## 🤝 Connect With Me
